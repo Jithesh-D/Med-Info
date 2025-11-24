@@ -148,5 +148,65 @@
     "unit": "strip/10",
     "salt": "Febuxostat",
     "alternatives": ["Feburic", "Febuget"]
+  },
+  "Amoxyclav 625": {
+    "price": 195,
+    "unit": "strip/10",
+    "salt": "Amoxicillin + Clavulanic Acid",
+    "alternatives": ["Moxclav", "Clavam"]
+  },
+  "Allegra-M": {
+    "price": 274,
+    "unit": "strip/10",
+    "salt": "Montelukast + Fexofenadine",
+    "alternatives": ["Telekast-L", "Montek-FX"]
+  },
+  "Atarax 25mg": {
+    "price": 106,
+    "unit": "strip/15",
+    "salt": "Hydroxyzine",
+    "alternatives": ["Hydrozin", "Atizine"]
+  },
+  "L Quin 500": {
+    "price": 180,
+    "unit": "strip/10",
+    "salt": "Levofloxacin",
+    "alternatives": ["Levoflox", "Levobact"]
+  },
+  "CIPLOX 500": {
+    "price": 80,
+    "unit": "strip/10",
+    "salt": "Ciprofloxacin",
+    "alternatives": ["Cifran", "Ciprobid"]
+  },
+  "Ovex 400": {
+    "price": 15,
+    "unit": "tablet/1",
+    "salt": "Albendazole",
+    "alternatives": ["Zentel", "Wormin"]
+  },
+  "Zyloric 100": {
+    "price": 65,
+    "unit": "strip/10",
+    "salt": "Allopurinol",
+    "alternatives": ["Goutnil", "Allopurinol (Generic)"]
+  },
+  "Vomikind MD 4": {
+    "price": 40,
+    "unit": "strip/10",
+    "salt": "Ondansetron",
+    "alternatives": ["Zofran", "Emeset"]
+  },
+  "Telma 40": {
+    "price": 120,
+    "unit": "strip/10",
+    "salt": "Telmisartan",
+    "alternatives": ["Arbitel", "Sartel"]
+  },
+  "Amlodac 5": {
+    "price": 30,
+    "unit": "strip/10",
+    "salt": "Amlodipine",
+    "alternatives": ["Amlopress", "Stamlo"]
   }
 }
