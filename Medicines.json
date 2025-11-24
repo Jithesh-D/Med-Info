@@ -208,5 +208,200 @@
     "unit": "strip/10",
     "salt": "Amlodipine",
     "alternatives": ["Amlopress", "Stamlo"]
-  }
-}
+  },
+  "Telmizem 40 H": {
+    "price": 22,
+    "unit": "strip/15",
+    "salt": "Telmisartan + Hydrochlorothiazide",
+    "alternatives": ["Telmikind H", "Teli H"]
+  },
+  "Glyzee M2 Tablet": {
+    "price": 23,
+    "unit": "strip/15",
+    "salt": "Glimepiride + Metformin",
+    "alternatives": ["Glyciphage-G 2/500", "Glucored Forte"]
+  },
+  "Raberide DSR Capsule": {
+    "price": 20,
+    "unit": "strip/10",
+    "salt": "Domperidone + Rabeprazole",
+    "alternatives": ["Rabekind-DSR", "Razo-D"]
+  },
+  "Cefasyn 500": {
+    "price": 250,
+    "unit": "strip/10",
+    "salt": "Cefuroxime Axetil 500 MG",
+    "alternatives": ["Ceftum 500", "Zocef 500"]
+  },
+  "OLOX 200": {
+    "price": 65,
+    "unit": "strip/10",
+    "salt": "Ofloxacin 200 MG",
+    "alternatives": ["Oflocin", "Ocid-O"]
+  },
+  "PODOCIP 200": {
+    "price": 180,
+    "unit": "strip/10",
+    "salt": "Cefpodoxime Proxetil 200 MG",
+    "alternatives": ["Zenpod", "Cefakind 200"]
+  },
+  "Solvin Cold": {
+    "price": 70,
+    "unit": "strip/10",
+    "salt": "Chlorpheniramine + Phenylephrine + Paracetamol",
+    "alternatives": ["Sinus 77", "Zincold", "Cheston Cold"]
+  },
+  "Nicip Cold & Flu": {
+    "price": 41,
+    "unit": "strip/10",
+    "salt": "Nimesulide + Phenylephrine + Caffeine + Cetirizine",
+    "alternatives": ["Sumo Cold", "New Hatric 3"]
+  },
+  "Gelusil MPS Syrup": {
+    "price": 150,
+    "unit": "bottle/200ml",
+    "salt": "Magnesium Hydroxide + Aluminium Hydroxide + Simethicone",
+    "alternatives": ["Digene", "Acivir", "Mucaine"]
+  },
+  "ENO Fruit Salt": {
+    "price": 10,
+    "unit": "sachet/5g",
+    "salt": "Sodic Bicarbonate + Citric Acid",
+    "alternatives": ["Sparkle", "Gastrocid"]
+  },
+  "Digene Gel (Mint)": {
+    "price": 120,
+    "unit": "bottle/200ml",
+    "salt": "Aluminium Hydroxide + Magnesium Hydroxide + Simethicone",
+    "alternatives": ["Gelusil", "Biocil MPS"]
+  },
+  "Miontizee L Tablet": {
+    "price": 15,
+    "unit": "strip/10",
+    "salt": "Levocetirizine + Montelukast",
+    "alternatives": ["Montair-LC", "Montina-L"]
+  },
+  "Pantoride 40 Tablet": {
+    "price": 18,
+    "unit": "strip/10",
+    "salt": "Pantoprazole 40mg",
+    "alternatives": ["Pantocid", "Pan 40"]
+  },
+  "Amoline 5 Tablet": {
+    "price": 6,
+    "unit": "strip/10",
+    "salt": "Amlodipine 5mg",
+    "alternatives": ["Stamlo 5", "Amlovas 5"]
+  },
+  "Atorzee 10": {
+    "price": 6,
+    "unit": "strip/10",
+    "salt": "Atorvastatin 10mg",
+    "alternatives": ["Atorva 10", "Lipikind 10"]
+  },
+  "AZICIP 250": {
+    "price": 85,
+    "unit": "strip/6",
+    "salt": "Azithromycin 250mg",
+    "alternatives": ["Zithrox 250", "Azithral 250"]
+  },
+  "CEFIX 200": {
+    "price": 175,
+    "unit": "strip/10",
+    "salt": "Cefixime 200mg",
+    "alternatives": ["Taxim O 200", "Cefolac 200"]
+  },
+  "CEFIX - O": {
+    "price": 280,
+    "unit": "strip/10",
+    "salt": "Cefixime + Ofloxacin",
+    "alternatives": ["Mahacef-O", "Zifi-O"]
+  },
+  "CIPMOX CV 625": {
+    "price": 190,
+    "unit": "strip/10",
+    "salt": "Amoxicillin + Clavulanate",
+    "alternatives": ["Augmentin", "Clavam"]
+  },
+  "OLOX OZ": {
+    "price": 110,
+    "unit": "strip/10",
+    "salt": "Ofloxacin + Ornidazole",
+    "alternatives": ["Norflox TZ", "Oflomac OZ"]
+  },
+  "ZOCLAR 500": {
+    "price": 320,
+    "unit": "strip/4",
+    "salt": "Clarithromycin 500mg",
+    "alternatives": ["Claribid 500", "Clarikem 500"]
+  },
+  "ROXEE 150": {
+    "price": 95,
+    "unit": "strip/10",
+    "salt": "Roxithromycin 150mg",
+    "alternatives": ["Roxirol", "Roxistand"]
+  },
+  "CIPDOXIVID - LB CAPS": {
+    "price": 140,
+    "unit": "strip/10",
+    "salt": "Doxycycline + Lactic Acid Bacillus",
+    "alternatives": ["Doxicip-L", "Doxytab-L"]
+  },
+  "Terriclave Tablet": {
+    "price": 290,
+    "unit": "strip/10",
+    "salt": "Cefpodoxime + Clavulanic Acid",
+    "alternatives": ["Podocef CV", "Oxipod CV"]
+  },
+  "Maxflo 200 Tablets": {
+    "price": 75,
+    "unit": "strip/10",
+    "salt": "Ofloxacin 200mg",
+    "alternatives": ["Floxin 200", "Oflomac 200"]
+  },
+  "CEPHADEX 500": {
+    "price": 120,
+    "unit": "strip/10",
+    "salt": "Cephalexin 500mg",
+    "alternatives": ["Keflex 500", "Sporidex 500"]
+  },
+  "MEGACLOX": {
+    "price": 150,
+    "unit": "strip/10",
+    "salt": "Ampicillin + Dicloxacillin",
+    "alternatives": ["Ampiclox", "Cloxacillin Comb"]
+  },
+  "TARIFLOX OZ": {
+    "price": 120,
+    "unit": "strip/10",
+    "salt": "Ofloxacin + Ornidazole",
+    "alternatives": ["Oflomac OZ", "Norflox TZ"]
+  },
+  "CEFRAX CV": {
+    "price": 310,
+    "unit": "strip/10",
+    "salt": "Cefixime + Clavulanate",
+    "alternatives": ["Zifi CV", "Cefolac CV"]
+  },
+  "PODOCIP CV": {
+    "price": 300,
+    "unit": "strip/10",
+    "salt": "Cefpodoxime + Clavulanate",
+    "alternatives": ["Zenpod CV", "Oxipod CV"]
+  },
+  "Combiflam Tablet": {
+    "price": 35,
+    "unit": "strip/20",
+    "salt": "Ibuprofen + Paracetamol",
+    "alternatives": ["Sumo", "Ibugesic Plus"]
+  },
+  "Sumo Tablet": {
+    "price": 60,
+    "unit": "strip/10",
+    "salt": "Nimesulide + Paracetamol",
+    "alternatives": ["Nise", "Nimulid Plus"]
+  },
+  "Asonac SR 200 Mg": {
+    "price": 165,
+    "unit": "strip/10",
+    "salt": "Aceclofenac + Serratiopeptidase",
