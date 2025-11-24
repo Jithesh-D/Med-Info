@@ -1,1 +1,15 @@
+{
+  "Dolo 650": {
+    "price": 30,
+    "unit": "strip/15",
+    "salt": "Paracetamol",
+    "alternatives": ["Metacin", "Calpol"]
+  },
+  "Azithral 500": {
+    "price": 120,
+    "unit": "3 tablets",
+    "salt": "Azithromycin",
+    "alternatives": ["Zathrin", "Azee"]
+  }
+}
 
