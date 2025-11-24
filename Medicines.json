@@ -10,6 +10,143 @@
     "unit": "3 tablets",
     "salt": "Azithromycin",
     "alternatives": ["Zathrin", "Azee"]
+  },
+  "Amoxil 500 mg": {
+    "price": 85,
+    "unit": "strip/10",
+    "salt": "Amoxicillin",
+    "alternatives": ["Mox", "Novamox"]
+  },
+  "Allegra 120": {
+    "price": 150,
+    "unit": "strip/10",
+    "salt": "Fexofenadine",
+    "alternatives": ["Fexigra", "Telfast"]
+  },
+  "Pantocid DSR": {
+    "price": 180,
+    "unit": "strip/10",
+    "salt": "Pantoprazole + Domperidone",
+    "alternatives": ["Pantoheal DSR", "Pan-D"]
+  },
+  "Atorva 10": {
+    "price": 95,
+    "unit": "strip/10",
+    "salt": "Atorvastatin",
+    "alternatives": ["Lipikind", "Aztor"]
+  },
+  "Montek LC": {
+    "price": 220,
+    "unit": "strip/10",
+    "salt": "Montelukast + Levocetirizine",
+    "alternatives": ["Montina-L", "Okacet-L"]
+  },
+  "Shelcal 500": {
+    "price": 110,
+    "unit": "strip/15",
+    "salt": "Calcium Carbonate + Vitamin D3",
+    "alternatives": ["Oscal", "Calcirol"]
+  },
+  "Becosules Z": {
+    "price": 45,
+    "unit": "strip/20",
+    "salt": "Multivitamin + Multimineral",
+    "alternatives": ["B-Cozyn", "Surbex Z"]
+  },
+  "Ecosprin 75": {
+    "price": 25,
+    "unit": "strip/14",
+    "salt": "Aspirin",
+    "alternatives": ["Loprin", "Asprito"]
+  },
+  "Omnacortil 10": {
+    "price": 55,
+    "unit": "strip/10",
+    "salt": "Prednisolone",
+    "alternatives": ["Wysolone", "Prelone"]
+  },
+  "Volini Gel": {
+    "price": 130,
+    "unit": "tube/30g",
+    "salt": "Diclofenac + Menthol + Linseed Oil",
+    "alternatives": ["Moov", "Iodex"]
+  },
+  "Omez 20": {
+    "price": 40,
+    "unit": "strip/10",
+    "salt": "Omeprazole",
+    "alternatives": ["Lupisome", "Zosec"]
+  },
+  "Augmentin 625 Duo": {
+    "price": 195,
+    "unit": "strip/10",
+    "salt": "Amoxycillin + Clavulanic Acid",
+    "alternatives": ["Amoxyclav 625", "Moxikind CV 625"]
+  },
+  "Glycomet 500 SR": {
+    "price": 38,
+    "unit": "strip/20",
+    "salt": "Metformin",
+    "alternatives": ["Okamet", "Glyciphage"]
+  },
+  "Ascoril LS Syrup": {
+    "price": 145,
+    "unit": "bottle/100ml",
+    "salt": "Ambroxol + Levosalbutamol + Guaifenesin",
+    "alternatives": ["Asthalin Expectorant", "Bro-Zedex"]
+  },
+  "Aciloc 150": {
+    "price": 50,
+    "unit": "strip/30",
+    "salt": "Ranitidine",
+    "alternatives": ["Rantac", "Histac"]
+  },
+  "AVil 25": {
+    "price": 12,
+    "unit": "strip/15",
+    "salt": "Pheniramine",
+    "alternatives": ["Phensedyl", "Triton"]
+  },
+  "Cetaphil Cleanser": {
+    "price": 650,
+    "unit": "bottle/125ml",
+    "salt": "Non-Medical Skin Cleansing Base",
+    "alternatives": ["Sebamed Cleanser", "Avene Cleanance"]
+  },
+  "Zincovit Tablet": {
+    "price": 82,
+    "unit": "strip/15",
+    "salt": "Multivitamin + Zinc",
+    "alternatives": ["A to Z Tablet", "Polybion"]
+  },
+  "Supradyn Daily": {
+    "price": 55,
+    "unit": "strip/15",
+    "salt": "Multivitamin + Iron + Calcium",
+    "alternatives": ["Revital", "Optisun"]
+  },
+  "Liv 52 DS": {
+    "price": 220,
+    "unit": "bottle/100",
+    "salt": "Herbal Liver Supplement",
+    "alternatives": ["Hepatoglobine", "Livomyn"]
+  },
+  "Cifran 500": {
+    "price": 55,
+    "unit": "strip/10",
+    "salt": "Ciprofloxacin",
+    "alternatives": ["Ciprobid", "Alcipro"]
+  },
+  "Eltroxin 100mcg": {
+    "price": 100,
+    "unit": "strip/100",
+    "salt": "Thyroxine Sodium",
+    "alternatives": ["Thyronorm", "Thyrox"]
+  },
+  "Febutaz 40": {
+    "price": 160,
+    "unit": "strip/10",
+    "salt": "Febuxostat",
+    "alternatives": ["Feburic", "Febuget"]
   }
 }
-
