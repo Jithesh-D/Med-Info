@@ -405,3 +405,222 @@
     "price": 165,
     "unit": "strip/10",
     "salt": "Aceclofenac + Serratiopeptidase",
+    "alternatives": ["Hifenac-SR", "Aceclo-SP"]
+  },
+  "ETORICOX-MR": {
+    "price": 180,
+    "unit": "strip/10",
+    "salt": "Etoricoxib + Thiocolchicoside",
+    "alternatives": ["Etoshine MR", "Nucoxia MR"]
+  },
+  "Enzoflam Tablet": {
+    "price": 140,
+    "unit": "strip/10",
+    "salt": "Aceclofenac + Paracetamol + Serratiopeptidase",
+    "alternatives": ["Ace Proxyvon Plus", "Acecloflam"]
+  },
+  "Lyrica 75mg": {
+    "price": 790,
+    "unit": "strip/14",
+    "salt": "Pregabalin 75mg",
+    "alternatives": ["Prega", "Pre-gab"]
+  },
+  "Gabacip 300": {
+    "price": 190,
+    "unit": "strip/10",
+    "salt": "Gabapentin 300mg",
+    "alternatives": ["Gabapin 300", "Neuraptin 300"]
+  },
+  "Dynapar QPS Spray": {
+    "price": 250,
+    "unit": "bottle/30ml",
+    "salt": "Diclofenac Diethylamine + Methyl Salicylate",
+    "alternatives": ["Voveran Emulgel", "Omnigel"]
+  },
+  "ETORICOX-TABS": {
+    "price": 110,
+    "unit": "strip/10",
+    "salt": "Etoricoxib 60mg",
+    "alternatives": ["Nucoxia 60", "Etosid 60"]
+  },
+  "Nise Tablet": {
+    "price": 50,
+    "unit": "strip/10",
+    "salt": "Nimesulide 100mg",
+    "alternatives": ["Nimulid", "Sumo"]
+  },
+  "Revital": {
+    "price": 350,
+    "unit": "bottle/30",
+    "salt": "Ginseng + Multivitamin + Minerals",
+    "alternatives": ["Health OK", "Ginsomin"]
+  },
+  "Chericof Syrup": {
+    "price": 130,
+    "unit": "bottle/100ml",
+    "salt": "Dextromethorphan + Chlorpheniramine",
+    "alternatives": ["Corex DX", "Phensedyl"]
+  },
+  "Faringosept": {
+    "price": 60,
+    "unit": "strip/20",
+    "salt": "Clorhexidine + Benzydamine",
+    "alternatives": ["Strepsils", "Cofsils"]
+  },
+  "Pantoloc 40": {
+    "price": 170,
+    "unit": "strip/10",
+    "salt": "Pantoprazole 40mg",
+    "alternatives": ["Pan 40", "Pantocid 40"]
+  },
+  "Enterogermina Oral Suspension": {
+    "price": 300,
+    "unit": "box/10 vials",
+    "salt": "Bacillus Clausii (Probiotic)",
+    "alternatives": ["Vizylac", "Florastor"]
+  },
+  "Sporlac DS": {
+    "price": 45,
+    "unit": "strip/10",
+    "salt": "Lactic Acid Bacillus",
+    "alternatives": ["Econorm", "Pre-Pro Capsule"]
+  },
+  "Ursocol 300": {
+    "price": 380,
+    "unit": "strip/10",
+    "salt": "Ursodeoxycholic Acid 300mg",
+    "alternatives": ["Ursodiol", "Udiliv 300"]
+  },
+  "Colospa Tablet": {
+    "price": 150,
+    "unit": "strip/10",
+    "salt": "Mebeverine",
+    "alternatives": ["Mebarid", "Colofac"]
+  },
+  "Cremaffin Liquid": {
+    "price": 180,
+    "unit": "bottle/225ml",
+    "salt": "Milk of Magnesia + Liquid Paraffin",
+    "alternatives": ["Duphalac", "Laxitol"]
+  },
+  "Becadexamin": {
+    "price": 85,
+    "unit": "strip/30",
+    "salt": "Multivitamin + Multimineral",
+    "alternatives": ["Supradyn", "A to Z"]
+  },
+  "Insugen R Refil": {
+    "price": 280,
+    "unit": "cartridge/3ml",
+    "salt": "Insulin Regular",
+    "alternatives": ["Actrapid", "Lupisulin R"]
+  },
+  "Thyronorm 50mcg": {
+    "price": 110,
+    "unit": "strip/100",
+    "salt": "Thyroxine Sodium 50mcg",
+    "alternatives": ["Eltroxin 50", "Thyrox 50"]
+  },
+  "Jardiance 10mg": {
+    "price": 650,
+    "unit": "strip/10",
+    "salt": "Empagliflozin 10mg",
+    "alternatives": ["Glyxambi", "SGLT2 Inhibitor (Generic)"]
+  },
+  "Dytor 10": {
+    "price": 60,
+    "unit": "strip/15",
+    "salt": "Torasemide 10mg",
+    "alternatives": ["Torsid 10", "Diurex 10"]
+  },
+  "Metoprolol 25mg": {
+    "price": 40,
+    "unit": "strip/10",
+    "salt": "Metoprolol Succinate 25mg",
+    "alternatives": ["Betaloc 25", "Metolar 25"]
+  },
+  "Lasix 40mg": {
+    "price": 15,
+    "unit": "strip/10",
+    "salt": "Furosemide 40mg",
+    "alternatives": ["Fruselac", "Furosemide (Generic)"]
+  },
+  "Dapagliflozin 10mg": {
+    "price": 180,
+    "unit": "strip/10",
+    "salt": "Dapagliflozin 10mg",
+    "alternatives": ["Forxiga 10", "Dapa-10"]
+  },
+  "Rosuvastatin 10mg": {
+    "price": 140,
+    "unit": "strip/10",
+    "salt": "Rosuvastatin 10mg",
+    "alternatives": ["Rozavel 10", "Rosuvas 10"]
+  },
+  "Clopidogrel 75mg": {
+    "price": 45,
+    "unit": "strip/10",
+    "salt": "Clopidogrel 75mg",
+    "alternatives": ["Plavix", "Clopitab 75"]
+  },
+  "Candid B Cream": {
+    "price": 110,
+    "unit": "tube/20g",
+    "salt": "Clotrimazole + Beclomethasone",
+    "alternatives": ["Dermiforce", "Cloderm"]
+  },
+  "Fluconazole 150mg": {
+    "price": 18,
+    "unit": "tablet/1",
+    "salt": "Fluconazole 150mg",
+    "alternatives": ["Fluka", "Zocon"]
+  },
+  "Ketoconazole Shampoo": {
+    "price": 220,
+    "unit": "bottle/100ml",
+    "salt": "Ketoconazole 2%",
+    "alternatives": ["Nizoral", "Keto-Z"]
+  },
+  "Betadine Solution": {
+    "price": 80,
+    "unit": "bottle/100ml",
+    "salt": "Povidone-Iodine 5%",
+    "alternatives": ["Povidine", "Wokadine"]
+  },
+  "Nebicip 5": {
+    "price": 180,
+    "unit": "strip/10",
+    "salt": "Nebivolol 5mg",
+    "alternatives": ["Nebilong 5", "Nevis 5"]
+  },
+  "Cilacar 10": {
+    "price": 190,
+    "unit": "strip/10",
+    "salt": "Cilnidipine 10mg",
+    "alternatives": ["Cilgard 10", "Ciledge 10"]
+  },
+  "Voglibose 0.3mg": {
+    "price": 90,
+    "unit": "strip/10",
+    "salt": "Voglibose 0.3mg",
+    "alternatives": ["Vogli", "Volibo"]
+  },
+  "Rabeprazole 20mg": {
+    "price": 70,
+    "unit": "strip/10",
+    "salt": "Rabeprazole 20mg",
+    "alternatives": ["Rabe", "Razo"]
+  },
+  "Lactulose Solution": {
+    "price": 280,
+    "unit": "bottle/100ml",
+    "salt": "Lactulose",
+    "alternatives": ["Duphalac", "Laxil"]
+  },
+  "Rifaximin 400mg": {
+    "price": 450,
+    "unit": "strip/10",
+    "salt": "Rifaximin 400mg",
+    "alternatives": ["Rifagut 400", "Rixmin 400"]
+  }
+}
